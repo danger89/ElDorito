@@ -1,3 +1,5 @@
+#include "String.hpp"
+
 #include "Logger.hpp"
 #include <iomanip>
 #include <fstream>
