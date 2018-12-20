@@ -1,4 +1,4 @@
-**ElDewrito development is on hold right now. We are not accepting issue reports or pull requests. For more information, please see our [blog](http://blog.eldewrito.com/).**
+**This ElDewrito repo is a reboot, and does accept pull requests. Since the work is done by a community of open-source / free software developers with no affiliation to ElDewrito developers what so ever.**
 
 <img src="http://i.imgur.com/IkTrjna.png" width="190" height="164" align="right"/>
 
