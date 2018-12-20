@@ -31,7 +31,7 @@ before_build:
 - cmd: >-
     CD %APPVEYOR_BUILD_FOLDER%
 
-    git clone https://github.com/scooterpsu/medalPack.git .\dist\mods\medals\default
+    git clone https://github.com/danger89/medalPack.git .\dist\mods\medals\default
 
     RM -rf .\dist\mods\medals\default\.git
 
